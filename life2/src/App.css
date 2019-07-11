@@ -1,0 +1,9 @@
+.Head{
+  align-self: center;
+  border: 4px;
+  border-block-color: red;
+  border-color: black;
+  border-radius: 10px;
+  background-color: black;
+
+}
